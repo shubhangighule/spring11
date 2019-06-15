@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="info/.mvn/wrapper"/>
+	<classpathentry kind="src" path="info/src/main/java"/>
+	<classpathentry kind="src" path="info/src/test/java"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="info/target/classes"/>
+</classpath>
